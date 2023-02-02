@@ -1,0 +1,4 @@
+rootProject.name = 'module'
+include 'core'
+include 'api'
+include 'web'
